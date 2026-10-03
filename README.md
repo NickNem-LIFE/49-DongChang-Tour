@@ -27,16 +27,24 @@
 
 ### 안동 (1순위, 2가지 코스안)
 
+<table><tr>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/91/3402691_image2_1.jpg" width="200" alt="하회마을"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/91/3402691_image2_1.jpg" width="800" alt="하회마을 크게보기">
-<p>하회마을 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/91/3402691_image2_1.jpg" width="500" alt="하회마을 크게보기">
 </details>
+하회마을
+</td>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/97/3047997_image2_1.JPG" width="200" alt="안동댐·월영교 일대"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/97/3047997_image2_1.JPG" width="800" alt="안동댐 크게보기">
-<p>안동댐·월영교 일대 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/97/3047997_image2_1.JPG" width="500" alt="안동댐 크게보기">
 </details>
+안동댐·월영교 일대
+</td>
+</tr></table>
+
+(출처: 한국관광공사 Tour API)
 
 **A. 전통마을형**
 안동역/터미널 집결 → 하회마을(부용대·병산서원) → 단체 식사 → 월영교 산책 → 귀가
@@ -56,16 +64,24 @@
 
 ### 문경 (대안, 2가지 코스안)
 
+<table><tr>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/16/3408316_image2_1.jpg" width="200" alt="문경새재 조령관문"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/16/3408316_image2_1.jpg" width="800" alt="조령관문 크게보기">
-<p>문경새재 조령관문 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/16/3408316_image2_1.jpg" width="500" alt="조령관문 크게보기">
 </details>
+문경새재 조령관문
+</td>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/57/3400357_image2_1.jpg" width="200" alt="가은오픈세트장"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/57/3400357_image2_1.jpg" width="800" alt="가은오픈세트장 크게보기">
-<p>가은오픈세트장 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/57/3400357_image2_1.jpg" width="500" alt="가은오픈세트장 크게보기">
 </details>
+가은오픈세트장
+</td>
+</tr></table>
+
+(출처: 한국관광공사 Tour API)
 
 **A. 새재 둘레길형**
 문경새재 입구 집결 → 주흘산·조령관문 둘레 산책 → 단체 식사 → 오미나라(오미자 와인 체험) → 귀가
@@ -84,16 +100,24 @@
 
 ### 단양 (대안, 2가지 코스안)
 
+<table><tr>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/78/2618378_image2_1.jpg" width="200" alt="단양강 잔도"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/78/2618378_image2_1.jpg" width="800" alt="단양강 잔도 크게보기">
-<p>단양강 잔도 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/78/2618378_image2_1.jpg" width="500" alt="단양강 잔도 크게보기">
 </details>
+단양강 잔도
+</td>
+<td align="center">
 <details>
 <summary><img src="http://tong.visitkorea.or.kr/cms/resource/20/3378020_image2_1.JPG" width="200" alt="만천하스카이워크 알파인코스터"></summary>
-<img src="http://tong.visitkorea.or.kr/cms/resource/20/3378020_image2_1.JPG" width="800" alt="만천하 알파인코스터 크게보기">
-<p>만천하스카이워크 알파인코스터 (출처: 한국관광공사 Tour API)</p>
+<img src="http://tong.visitkorea.or.kr/cms/resource/20/3378020_image2_1.JPG" width="500" alt="만천하 알파인코스터 크게보기">
 </details>
+만천하스카이워크 알파인코스터
+</td>
+</tr></table>
+
+(출처: 한국관광공사 Tour API)
 
 **A. 가벼운 체험형**
 단양역/터미널 집결 → 만천하스카이워크 전망대(모노레일로 이동) → 단양강 잔도 산책 → 단체 식사 → 단양구경시장 먹거리 투어 → 귀가
